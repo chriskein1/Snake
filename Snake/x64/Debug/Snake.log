@@ -1,0 +1,18 @@
+﻿  main.cpp
+  menu.cpp
+  snake.cpp
+\\Mac\Home\Downloads\Snake\Snake\snake.cpp(50,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\Mac\Home\Downloads\Snake\Snake\snake.cpp(101,78): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Downloads\Snake\Snake\snake.cpp(238,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Downloads\Snake\Snake\snake.cpp(262,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+\\Mac\Home\Downloads\Snake\Snake\snake.cpp(263,44): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Snake.vcxproj -> \\Mac\Home\Downloads\Snake\x64\Debug\Snake.exe

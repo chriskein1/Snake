@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\lilch\source\repos\Snake\Snake\include.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  menu.cpp
+C:\Users\lilch\source\repos\Snake\Snake\include.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  snake.cpp
+C:\Users\lilch\source\repos\Snake\Snake\include.h(2,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  window.cpp
+  Generating Code...
